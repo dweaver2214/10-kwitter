@@ -1,7 +1,6 @@
 Product Owner - Donald McClain
 Scrum Master - Jordan Kubista
-QA - Dereck Weaver
-Dev Team - Marc Daniels, Larry Dickerson
+QA - Dereck Weaver, Marc Daniels, Larry Dickerson
 
 
 ## Overview
