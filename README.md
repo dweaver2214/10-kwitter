@@ -1,3 +1,9 @@
+Product Owner - Donald McClain
+Scrum Master - Jordan Kubista
+QA - Dereck Weaver
+Dev Team - Marc Daniels, Larry Dickerson
+
+
 ## Overview
 
 You will be working in teams to make a clone of a common micro-blogging platform. You will be given a back-end API for you to form your front-end application around. 
